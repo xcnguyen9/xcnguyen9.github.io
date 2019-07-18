@@ -6,19 +6,16 @@ html {
 }
 
 body {
-  /*font-family: 'Montserrat', sans-serif;*/
   font-family: 'Archivo', sans-serif;
 }
 
 hr {
   max-width: 65px;
   border-width: 3px;
-  /*border-color: #F05F44;*/
   border-color: #BC7DAC;
 }
 
 .faded {
- /* color: rgba(255, 255, 255, 0.8); */
     color: rgba(36.9, 6.3, 29.4, 0.8);
 }
 
@@ -50,15 +47,11 @@ header.startup h1 {
 }
 
 .btn-primary {
-  /*background-color: #F05F44;
-  border-color: #F05F44;*/
   background-color: #9D4E89;
   border-color: #BC7DAC;
 }
 
 .btn-primary:hover {
-  /*background-color: #ee4b08;
-  border-color: #ee4b08;*/
   background-color: #74276D;
   border-color: #74276D;
   border-width: 5px;
